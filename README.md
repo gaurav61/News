@@ -8,3 +8,5 @@ A simple news app.
 
 ## Run
 Generate the APK file in Android studio and run it on the phone.
+
+![ScreenShot](Screenshot_20170816-180933.png)
